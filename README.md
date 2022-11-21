@@ -9,7 +9,7 @@ This README.MD guides how to do the following:
 1. Backup Directories from one server to a backup-server at 1am on Friday.
 2. Viewing Weather Forecast from a specific specity at 5am everyday.
 
-**Note:** Each instructions has its own script, service file, and timer file found in the repo
+**Note:** Each instruction has its own script, service file, and timer file found in the Repository
 
 
 
